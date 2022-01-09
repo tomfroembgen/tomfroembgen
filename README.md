@@ -1,5 +1,5 @@
 ### Hi there 👋 I'm Tom Frömbgen.
-- 🔭 I’m working on (ab initio) molecular dynamics simulations and spectroscopy of deep eutectic solvents
+- 🔭 Working on (ab initio) molecular dynamics simulations and spectroscopy of deep eutectic solvents
 - 🌱 Learning Python and Fortran
 - 👯 Part of the group of Prof. Dr. Barbara Kirchner (Bonn, Germany)
 - 📫 How to reach me: froembgen@thch.uni-bonn.de
