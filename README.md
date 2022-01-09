@@ -1,8 +1,8 @@
 ### Hi there 👋 I'm Tom Frömbgen.
-- 🔭 Working on (ab initio) molecular dynamics simulations and spectroscopy of deep eutectic solvents
-- 🌱 Learning Python and Fortran
+- 🖥️ Working on (ab initio) molecular dynamics simulations and spectroscopy of deep eutectic solvents
+- 🤓 Learning Python and Fortran
 - 👯 Part of the group of Prof. Dr. Barbara Kirchner (Bonn, Germany)
-- 📫 How to reach me: froembgen@thch.uni-bonn.de
+- 📧 How to reach me: froembgen@thch.uni-bonn.de
 <!--
 **tomfroembgen/tomfroembgen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
