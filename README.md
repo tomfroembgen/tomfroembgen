@@ -2,7 +2,7 @@
 - 🖥️ Working on (ab initio) molecular dynamics simulations and spectroscopy of deep eutectic solvents (DES) and ionic liquids (ILs)
 - 🤓 Learning Python and Fortran
 - ⚡ PhD student in the group of Prof. Dr. Barbara Kirchner (Bonn, Germany)
-- 📧 How to reach me: froembgen@thch.uni-bonn.de
+- 📧 How to reach me: froembgen@thch.uni-bonn.de or add me on [LinkedIn](https://www.linkedin.com/in/tom-fr%C3%B6mbgen-3b42b11b8/)
 <!--
 **tomfroembgen/tomfroembgen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
