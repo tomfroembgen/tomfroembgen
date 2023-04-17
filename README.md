@@ -1,7 +1,7 @@
 ### Hi there 👋 I'm Tom Frömbgen.
 - 🖥️ Working on 
   * Molecular dynamics simulations and spectroscopy of bulk phase systems 
-  * Uncertainy uantification
+  * Uncertainy quantification
 - 🤓 Learning Python and Fortran
 - ⚡ PhD student in the group of Prof. Dr. Barbara Kirchner (Bonn, Germany)
 - 📧 How to reach me: froembgen@thch.uni-bonn.de or add me on [LinkedIn](https://www.linkedin.com/in/tom-fr%C3%B6mbgen-3b42b11b8/)
